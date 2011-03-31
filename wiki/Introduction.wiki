@@ -12,4 +12,4 @@ The procedure used by HeatSeeker is simple. The application or website you are m
 
 = So how do I set it up? =
 
-To set it up please look at the Setup page.
+To set it up please look at the |Setup| page.
